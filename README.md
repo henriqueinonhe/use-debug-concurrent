@@ -10,6 +10,8 @@ With this hook, you can pass callbacks that will only run in a specific render p
 
 If you want to dive deeper into concurrent rendering or how this hook works, check [this article](https://blog.codeminer42.com/everything-you-need-to-know-about-concurrent-react-with-a-little-bit-of-suspense/#debugging-concurrent-rendering).
 
+You can check a live demo here: https://stackblitz.com/edit/react-wzwn93
+
 ## Installation
 
 ```sh
