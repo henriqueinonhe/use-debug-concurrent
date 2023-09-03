@@ -16,6 +16,10 @@
     "useDeferredValue"
   ],
   "author": "Henrique Inonhe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henriqueinonhe/use-debug-concurrent"
+  },
   "license": "MIT",
   "peerDependencies": {
     "react": "^18.0.0"
