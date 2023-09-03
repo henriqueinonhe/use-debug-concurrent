@@ -1,6 +1,6 @@
 {
   "name": "use-debug-concurrent",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "A hook to debug React concurrent features. Attach callbacks to high and low priority renders.",
   "main": "dist/index.js",
   "scripts": {
