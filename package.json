@@ -1,0 +1,27 @@
+{
+  "name": "use-debug-concurrent",
+  "version": "1.0.0-rc",
+  "description": "A hook to debug React concurrent features. Attach callbacks to high and low priority renders.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "react",
+    "concurrent",
+    "debug",
+    "hooks",
+    "useTransition",
+    "useDeferredValue"
+  ],
+  "author": "Henrique Inonhe",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.21",
+    "prettier": "3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
