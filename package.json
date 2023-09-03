@@ -4,7 +4,8 @@
   "description": "A hook to debug React concurrent features. Attach callbacks to high and low priority renders.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "prepublishOnly": "tsc"
   },
   "keywords": [
     "react",
